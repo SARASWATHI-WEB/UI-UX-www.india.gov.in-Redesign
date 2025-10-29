@@ -2,6 +2,7 @@ India.gov.in Website Redesign — Enhancing Accessibility & Navigation
 
 Overview:
 A complete redesign of India’s national portal to improve usability, simplify navigation, and modernize its interface.
+
 Callouts:
 Improved Visual Hierarchy, Accessible & Calmer Color Palette, Modernized Typography System, Quick Access Dashboard 
 
