@@ -1,0 +1,36 @@
+Improved Visual Hierarchy
+
+Introduced consistent grid layout and balanced spacing.
+
+Grouped information by relevance section
+
+Accessible & Calmer Color Palette
+
+Adopted government-trustworthy blue tones with high contrast for accessibility.
+
+Muted accent colors for buttons
+
+
+Modernized Typography System
+
+for headers (e.g., poppies) for authoritative tone.
+
+for body text (e.g., inter or Noto sans) for readability.
+
+
+Quick Access Dashboard
+
+Added visual “Service Tiles” for top citizen tasks (e.g., Birth Certificate, PAN, Driving Licence, already there 
+I added Passport on the dashboard because password is top search if it is in homepage easy to access).
+
+Uses icons and color cues to improve scanability and responsiveness.
+
+https://www.figma.com/design/PtZtmT2yJLcEZaqIJcJSRo/National-Portal-of-India?node-id=95-903&t=coNyYvmaD1miF9qx-1  = RUN
+
+https://drive.google.com/file/d/1IrUkSF8paa-TW8zj5_ijfNgVE3nLhLLI/view?usp=sharing         = VIDEO
+
+
+<video autoplay loop muted playsinline width="100%">
+  <source src="YEAST.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
