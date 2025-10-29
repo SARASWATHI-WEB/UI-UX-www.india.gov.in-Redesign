@@ -12,7 +12,9 @@ Include links to prototypes
 https://github.com/user-attachments/assets/cc9280b4-cc9f-4823-b6c4-04b7506f313b
 
 
-reference 
+
+
+Reference homepage
 <img width="1920" height="1020" alt="Screenshot 2025-10-18 200658" src="https://github.com/user-attachments/assets/11865409-9e4f-434c-a297-683e7a9cacda" />
 <img width="1920" height="1020" alt="Screenshot 2025-10-18 200728" src="https://github.com/user-attachments/assets/a2bdf194-7149-45d1-8369-57b0f7e7c95c" />
 <img width="1920" height="1020" alt="Screenshot 2025-10-18 200739" src="https://github.com/user-attachments/assets/5deec3d8-6deb-4891-8e7b-2ca199145d26" />
